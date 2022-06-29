@@ -12,3 +12,5 @@ The extra function of the software is comparing the differences of two files.Thi
 The suffix of the expressed file is ".lxced" and the suffix of the expanded file is ".lxc".
 
 Test files are offered to help you to familiarize the software :)
+
+YOLO
